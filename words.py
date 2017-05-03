@@ -40,7 +40,6 @@ print ("dracula",frequencyOf("dracula"))
 
 print(totalFrequencyOf(["the","he"]))
 
-print("only searches the first 500 words in the book")
 print("most common word",mostCommon())
 
 
